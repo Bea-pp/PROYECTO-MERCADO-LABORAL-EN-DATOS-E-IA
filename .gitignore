@@ -1,1 +1,5 @@
 dataset/
+__pycache__/
+/modelo_salario.pkl
+/columnas_modelo.pkl
+api/Api.zip
